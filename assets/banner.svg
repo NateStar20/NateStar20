@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Gerardo Sanchez — Desarrollo web e IA aplicada</title>
+<title id="title">Gerardo Sanchez — Desarrollo web y redes</title>
 <desc id="desc">Portada de NateStar20 en azul profundo y verde. Un diagrama conecta interfaz, API y datos.</desc>
 <rect width="1200" height="360" rx="22" fill="#101D36"/>
 <path d="M0 314H1200" stroke="#294268"/>
@@ -8,9 +8,9 @@
 <g font-family="Verdana, sans-serif">
 <text x="52" y="63" fill="#B9CAE3" font-size="18">@NateStar20</text>
 <text x="48" y="142" fill="#F4F7FF" font-family="Trebuchet MS, Verdana, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Gerardo Sanchez</text>
-<text x="52" y="195" fill="#CFF571" font-size="27">Desarrollo web e IA aplicada</text>
+<text x="52" y="195" fill="#CFF571" font-size="27">Desarrollo web y redes</text>
 <text x="52" y="255" fill="#B9CAE3" font-size="18">Interfaces, APIs y bases de datos.</text>
-<text x="52" y="343" fill="#B9CAE3" font-size="14">Python / Vue / MySQL</text>
+<text x="52" y="343" fill="#B9CAE3" font-size="14">HTML / CSS / PHP</text>
 <text x="1148" y="343" fill="#B9CAE3" font-size="14" text-anchor="end">Construir. Conectar. Mejorar.</text>
 <path d="M799 116H855V168H931V221H1039" stroke="#467EF7" stroke-width="3" fill="none"/>
 <path d="M799 116V242H931V221" stroke="#467EF7" stroke-width="2" stroke-dasharray="6 7" fill="none"/>
